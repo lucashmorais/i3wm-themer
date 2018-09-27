@@ -43,7 +43,7 @@ effort to make it meet everyone's needs/likings.
 <ul>
 Clone this repository and install the requirements for the script.
 
-    git clone https://github.com/unix121/i3wm-themer
+    git clone https://github.com/lucashmorais/i3wm-themer
     cd i3wm-themer/
     sudo pip install -r requirements.txt
 
